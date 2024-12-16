@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a dreamer of extraterrestial🌌 exploration of mankind and manifesting to set foot on planet Mars🪐 one day
 
 ## Tech Skills for now
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
