@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sanujen.20@cse.mrt.ac.lk
 - ⚡ Fun fact: I am a dreamer of extraterrestial🌌 exploration of mankind and manifesting to set foot on planet Mars🪐 one day
 
-## Tech Skills I got
+## Tech Skills for now
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker)](https://github.com/harish-sethuraman/readme-components)
