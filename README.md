@@ -31,4 +31,26 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117)
+<div style="display: inline-block; padding: 10px;">
+  <a href="#">
+    <div style="
+        display: inline-flex;
+        align-items: center;
+        background-color: #007396;
+        border-radius: 30px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+        color: white;
+        font-weight: bold;
+        padding: 5px 15px;
+        text-decoration: none;
+      ">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+           alt="Java Logo" 
+           width="20" 
+           style="margin-right: 10px;">
+      Java
+    </div>
+  </a>
+</div>
+
 
