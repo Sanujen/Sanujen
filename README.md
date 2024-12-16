@@ -1,6 +1,6 @@
-## Hi there 👋 
+# Hi there 👋 
 
-## SANUJEN I AM
+## **SANUJEN I AM** 🌟 
 
 <!--
 **Sanujen/Sanujen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sanujen.20@cse.mrt.ac.lk
 - ⚡ Fun fact: I am a dreamer of extraterrestial🌌 exploration of mankind and manifesting to set foot on planet Mars🪐 one day
 
-## Tech Skill I got
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+## Tech Skills I got
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
