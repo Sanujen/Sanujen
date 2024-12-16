@@ -36,6 +36,28 @@ Here are some ideas to get you started:
     <div style="
         display: inline-flex;
         align-items: center;
+        background-color: white; /* White background */
+        border-radius: 30px; /* Rounded container */
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); /* Shadow effect */
+        color: #6D4AFF; /* Text color matches React logo */
+        font-weight: bold;
+        padding: 5px 15px;
+        text-decoration: none;
+      ">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+           alt="React Logo" 
+           width="20" 
+           style="margin-right: 10px;">
+      React
+    </div>
+  </a>
+</div>
+
+<div style="display: inline-block; padding: 10px;">
+  <a href="#">
+    <div style="
+        display: inline-flex;
+        align-items: center;
         background-color: #007396;
         border-radius: 30px;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
